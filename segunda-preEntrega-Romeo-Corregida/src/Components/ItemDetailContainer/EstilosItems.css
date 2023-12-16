@@ -1,0 +1,17 @@
+.container-item{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: rgb(78, 57, 57);
+    border-radius: 16px;
+
+}
+.container-item img{
+    max-width: 100%;
+    border-radius: 16px
+}
+
+.container-pizza-sola{
+    width: 1000px;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,17 @@
+.footer{
+    background-color: rgb(117, 117, 117);
+    border-radius: 16px;
+}
+
+.text-footer{
+    padding: 10px;
+    color: rgb(0, 0, 0);
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+  }

@@ -1,0 +1,55 @@
+.navbar {
+    background-color: rgb(151, 151, 151);
+    width: 100%; 
+    font-size: 18px;
+    font-weight: 0;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 16px;
+
+
+}
+  
+.navbar-brand {
+    color: #f7e9e9;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 2.5rem; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  
+.nav-link {
+    font-size: 18px;
+    margin-right: 20px;
+
+}
+  
+  
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    padding: 10px;
+    gap: 40px;
+
+}
+  
+.cart-widget-button {
+    background-color: #ffcc00;
+    color: #0b14c390;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+  
+.cart-widget-button:hover {
+    background-color: #ffd633;
+}
+
+.text-logo{
+    color: black;
+    font-size: 40px;
+}

@@ -1,7 +1,7 @@
 .container-item{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    background-color: rgb(78, 57, 57);
+    background-color: #DCD0C0;
     border-radius: 16px;
 
 }

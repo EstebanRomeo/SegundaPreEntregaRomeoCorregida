@@ -17,10 +17,10 @@ function NavBar() {
             <Navbar.Brand to="/"><p className='text-logo'> LaPizza</p> </Navbar.Brand>
             <Nav className="container">
               <Link to="/">Inicio</Link>
-              <Link to="/categoria/normales">Normales </Link>
-              <Link to="/categoria/vegetales">Con Vegetales</Link>
-              <Link to="/categoria/especiales">Especiales</Link>
-              <Link to="/cart"> <CartWidget/> </Link>
+              <Link to="categoria/normales">Normales </Link>
+              <Link to="categoria/vegetales">Con Vegetales</Link>
+              <Link to="categoria/especiales">Especiales</Link>
+              <Link to="categoria/cart"> <CartWidget/> </Link>
             </Nav>
               
         </Container>
